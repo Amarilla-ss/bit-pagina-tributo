@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.principal {
+    background-color: grey;
+    margin: auto 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.titulopage h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: 00000;
+    font-size: 3.5rem;
+    padding-top: 15px;
+}
+
+.titulopage {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.imagenpage {
+    background-color: #9b9b9b;
+    margin: auto 15px;
+    border-radius: 5px;
+   
+}
+
+.img{
+  
+  padding-bottom: 10px;
+}
+
+.imagenpage_text p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+
+
+
+.title-timeline {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    color: #000;
+    
+}
+
+ul.timeline {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+   
+}
+
+
+
+li.listas {
+    font-family: sans-serif;
+    margin: 10px 0;
+    padding: 10px;
+    width: 45%;
+    text-align: justify;
+    border: 1px ;
+    border-radius: 4px;
+
+    
+}
+
+.textfinal { 
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px rgb(185, 181, 175);
+}
+
+.textofinal { 
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+    
+    
+   
+}
+
+
+.imagenturing {
+    background-color: #9b9b9b;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+.funcionamiento h4 {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+padding-top: 30px;
+color: #000000;
+border: 1px solid rgb(185, 181, 175);
+}
+
+
+
+
+
+.maquina-alan {
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #000000;
+font-size: 15px;
+padding-top: 15px;
+
+}
+
+.maquina1 { 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    width: 90%;
+    
+}
+
+.footer-container {
+     background-color: #000000;
+      color: #766a6a; 
+      padding: 20px; 
+      text-align: center;
+ }
+
+     .footer-container h5 {
+     margin-bottom: 10px; 
+     font-size: 30px;
+ }
+
+
+    .footer-container h6 {
+
+    margin-bottom: 10px;
+    font-size: 20px;
+
+    }
+
+    .footer-container ul {
+     list-style-type: none;
+     padding: 0; 
+}
+ 
+.footer-container ul li { 
+    margin: 5px 0;
+ }
+
+ .footer-container ul li a { 
+color: #966262; 
+text-decoration: none; 
+
+}
+
+.footer-container ul li a:hover { 
+    text-decoration: underline; 
+}
