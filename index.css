@@ -5,7 +5,7 @@
 }
 
 .principal {
-    background-color: grey;
+    background-color: rgb(227, 138, 100);
     margin: auto 10px;
     border-radius: 5px;
     width: 100%;
@@ -26,7 +26,7 @@
 }
 
 .imagenpage {
-    background-color: #9b9b9b;
+    background-color: #eaaa7c;
     margin: auto 15px;
     border-radius: 5px;
    
@@ -84,7 +84,7 @@ li.listas {
     margin-top: 20px;
     width: 100%;
     margin-bottom: 20px;
-    border: 1px rgb(185, 181, 175);
+    border: 1px rgb(209, 134, 85);
 }
 
 .textofinal { 
@@ -98,7 +98,7 @@ li.listas {
 
 
 .imagenturing {
-    background-color: #9b9b9b;
+    background-color: #d59872;
     text-align: center;
     margin-top: 10px;
 }
